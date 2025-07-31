@@ -52,7 +52,7 @@ This lab session was designed to strengthen skills related to compute resource m
 
 | File                      | Description                                            |
 |---------------------------|--------------------------------------------------------|
-| `ecs_lab_report_aziz.pdf` | Full technical report with step-by-step documentation |
+| `Compute Services Report.pdf` | Full technical report with step-by-step documentation |
 | `README.md`               | Overview and summary of the lab                       |
 
 ---
